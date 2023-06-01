@@ -1,1 +1,1 @@
-This is the main frontend file of version 1
+This is the main frontend file of version 1 in git hub
